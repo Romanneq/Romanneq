@@ -40,6 +40,7 @@ Network Analysis Tools:
 
 ### [Примеры работы Manual](https://github.com/Romanneq/qa-manual/blob/main/README.md)
 ### [Примеры работы Auto](https://github.com/Romanneq/qa-auto/blob/main/README.md)
+### [Примеры баг-репортов](https://github.com/Romanneq/qa-bug/blob/main/README.md)
 
     
 
