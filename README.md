@@ -1,4 +1,4 @@
-![Header](https://github.com/Romanneq/Romanneq/blob/main/assets/photo.png)
+![Header](https://github.com/Romanneq/Romanneq/blob/main/assets/%D1%84%D0%BE%D0%BD%20github%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80.png)
 <h1> Добрый день! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> меня зовут Роман Гороховик, я начинающий тестировщик.</h1>
 
 - 💻 Сейчас я прохожу стажировку в компании "Only"
