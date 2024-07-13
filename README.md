@@ -6,7 +6,7 @@
 - 🔎 **Интересно написание автотестов на Python: юнит, API, UI (фреймворк – selenium)**
 - 📔 **Также планирую научиться писать автотесты на Java** 
 ## Мое резюме и связь
-[![Flutter](https://img.shields.io/badge/-резюме-white?style=for-the-badge&logo=google)](https://drive.google.com/file/d/1pC_KQYBA2NCn14D1hQbKEChjbxoHrhkx/view) [![Flutter](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/romagorohovik) [![Flutter](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/gr196) 
+[![Flutter](https://img.shields.io/badge/-резюме-white?style=for-the-badge&logo=google)](https://drive.google.com/file/d/1d58ycN7w75Nqli7eUOTF3NM_fYro-0QS/view?usp=drive_link) [![Flutter](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/romagorohovik) [![Flutter](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/gr196) 
 
 Почта: gorohovikroman123@yandex.ru
 ## Stack & skills:
